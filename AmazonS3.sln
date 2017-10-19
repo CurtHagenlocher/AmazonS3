@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "AmazonS3", "AmazonS3\AmazonS3.mproj", "{C3C8B4CE-2BCE-4D5B-81A8-27FA94FE9523}"
+Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "AmazonS3", "AmazonS3.mproj", "{C3C8B4CE-2BCE-4D5B-81A8-27FA94FE9523}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
